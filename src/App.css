@@ -1,0 +1,27 @@
+.app{
+  background-color: #c3c2c085;
+  height: auto;
+}
+.container{
+  flex-grow: 1;
+    width: 100%;
+    height: auto;
+    margin-bottom: 37px;
+}
+.sideBar_div{
+  width: 350px;
+  background-image: url(./img/shutterstock_579905209.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 0px 9px 9px 0px;
+  
+
+}
+
+@media only screen and (max-width: 814px) {
+  .sideBar_div {
+    width: 100%;
+ 
+  }
+}
+
