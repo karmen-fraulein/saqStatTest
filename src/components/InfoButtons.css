@@ -26,3 +26,9 @@
     color: #f0c8c1;
     font-size: 18px;
 }
+
+@media only screen and (max-width: 400px) {
+  .main_div button {
+    font-size: 13px;
+  }
+}

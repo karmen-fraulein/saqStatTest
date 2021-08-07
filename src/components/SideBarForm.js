@@ -51,7 +51,7 @@ function SideBarForm() {
         <button type="submit">განახლება</button>
       </div>
 
-      <div>
+      <div className="paragraf">
         <p>
           2021 წლის ივლისში ინფლაციის დონემ წინა წლის შესაბამის თვესთან
           შედარებით შეადგინა 11.91%

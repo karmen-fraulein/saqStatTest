@@ -47,3 +47,9 @@ select {
     width: 100%;
   }
 }
+
+@media only screen and (max-width: 400px) {
+  .select_div button {
+    font-size: 13px;
+  }
+}
