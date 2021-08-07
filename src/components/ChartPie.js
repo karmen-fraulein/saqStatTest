@@ -8,6 +8,7 @@ const useStyles = makeStyles((theme) => ({
   chartPie: {
     display: 'flex',
     justifyContent: 'center',
+    marginLeft: '37px',
 
   },
 }))
