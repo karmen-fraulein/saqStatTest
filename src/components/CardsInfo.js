@@ -13,7 +13,7 @@ const useStyles = makeStyles((theme) => ({
     flexGrow: 1,
     width: "95%",
     margin: "auto",
-    marginTop: "100px",
+    marginTop: "76px",
   },
 
   cards: {
